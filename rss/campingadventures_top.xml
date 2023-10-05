@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@campingadventures_top</id>
   <title>campingadventures_top TikTok</title>
-  <updated>2023-10-03T14:58:35+00:00</updated>
+  <updated>2023-10-05T17:37:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bigsky101.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from campingadventures_top</subtitle>
-  <entry>
-    <id>https://tiktok.com/@campingadventures_top/video/7283540786094951712</id>
-    <title>#camping #survival #adventure  #bushcraft #outdoors #asmr #foryou</title>
-    <updated>2023-09-27T16:18:14+00:00</updated>
-    <content>#camping #survival #adventure  #bushcraft #outdoors #asmr #foryou</content>
-    <link href="https://tiktok.com/@campingadventures_top/video/7283540786094951712" rel="alternate"/>
-    <published>2023-09-27T16:18:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@campingadventures_top/video/7284065766369004833</id>
     <title>This GIRL is a man's DREAM #camping #camping #survival #adventure  #bushcraft #outdoors #asmr #foryou #fish #fishing</title>
@@ -51,5 +43,13 @@
     <content>This GIRL is a GENIUS!😮💡#camping #survival #adventure  #bushcraft #outdoors #asmr #us #uk #foryou</content>
     <link href="https://tiktok.com/@campingadventures_top/video/7285746760541113633" rel="alternate"/>
     <published>2023-10-03T14:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@campingadventures_top/video/7286529933214551329</id>
+    <title>A fish trap 🐟🕸 #camping #survival #adventure  #bushcraft #outdoors #asmr #us #uk #foryou</title>
+    <updated>2023-10-05T17:37:39+00:00</updated>
+    <content>A fish trap 🐟🕸 #camping #survival #adventure  #bushcraft #outdoors #asmr #us #uk #foryou</content>
+    <link href="https://tiktok.com/@campingadventures_top/video/7286529933214551329" rel="alternate"/>
+    <published>2023-10-05T17:37:39+00:00</published>
   </entry>
 </feed>
